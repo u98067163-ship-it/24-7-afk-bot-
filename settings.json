@@ -1,10 +1,11 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
-    "password": "",
+    "username": "Khiladismp.aternos.me
+    ",
+    "password": "42844",
     "type": "offline"
-  },
+  },\"type\": \"offline\"
   "server": {
     "ip": "solocloud.host",
     "port": 25565,
