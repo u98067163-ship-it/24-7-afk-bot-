@@ -5,8 +5,8 @@
     "password": "",
     "type": "offline"},
   "server": {
-    "ip": "Khiladismp.aternos.me",
-    "port": 42844,
+    "ip": "https://cropse007.aternos.me",
+    "port": 61453,
     "version": "1.20.1",
     "try-creative": false
   },
