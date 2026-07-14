@@ -5,7 +5,7 @@
     "password": "",
     "type": "offline"},
   "server": {
-    "ip": "https://cropse007.aternos.me",
+    "ip": "cropse007.aternos.me",
     "port": 61453,
     "version": "1.20.1",
     "try-creative": false
